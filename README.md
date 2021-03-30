@@ -1,24 +1,26 @@
 # Hi, I'm [Z!] 👋.
 
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/23398269?s=400&u=d633f261756175d1fdcfc2e5f9560c3109ffe2d5&v=4">
-
 Android工程师 🤖
+<div style="background: white ">
+<!-- top left -->
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
+</div>
+<p align="center">
+  <a href="https://github.com/390057892">
+    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=390057892&show_icons=true&line_height=21&show_icons=true&theme=vue" />
+  </a>
+</p>
 
-## About me 
-
-:heart: 旅游| :black_heart: Code | :blue_heart: DIY
-
-- :earth_americas:  河南-焦作
-- :video_game:  like 游戏机
-- :gem:  like Switch
-
-## Reach me 
-[![Github](https://img.shields.io/github/followers/SAnBlog?label=Github&style=social)](https://github.com/390057892)
-
-### Interesting stats
-
-![Z's stats](https://github-readme-stats.vercel.app/api?username=390057892&show_icons=true)
-
-Thanks for stopping by! 😁
-
----
+<p align="center">
+  <a href="https://github.com/390057892/reader">
+    <img src="https://img.shields.io/badge/🔥%20Android-Reader-brightness.svg"
+  </a>  
+  <a href="https://github.com/390057892">
+    <img src="https://komarev.com/ghpvc/?username=390057892&color=brightgreen" />
+  </a>
+  <a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </a>  
+</p>
