@@ -1,6 +1,6 @@
 # Hi, I'm [Zzlj!] 👋.
 
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/23398269?s=60&v=4">
+<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/23398269?s=400&u=d633f261756175d1fdcfc2e5f9560c3109ffe2d5&v=4">
 
 Android工程师 🤖
 
