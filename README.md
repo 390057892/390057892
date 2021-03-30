@@ -1,6 +1,3 @@
-# Hi, I'm [Z!] 👋.
-
-Android工程师 🤖
 <div style="background: white ">
 <!-- top left -->
 <div>
