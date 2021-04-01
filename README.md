@@ -1,4 +1,4 @@
-一位想进大厂Android Coder 😬.
+一位有梦想的Android Coder 😬.
 <div style="background: white ">
 <!-- top left -->
 <div>
