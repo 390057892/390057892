@@ -1,4 +1,4 @@
-一位落魄的Android Coder 😬.
+Android Coder 😬.
 <div style="background: white ">
 <!-- top left -->
 <div>
